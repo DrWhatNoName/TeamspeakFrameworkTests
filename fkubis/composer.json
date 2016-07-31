@@ -1,0 +1,15 @@
+{
+  "name": "DrWhatNoName/TeamspeakFrameworkTests",
+  "description": "Teamspeak framework timeout test",
+  "minimum-stability": "dev-master",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "DrWhat",
+      "email": "drwhat@cryto.net"
+    }
+  ],
+  "require": {
+    "fkubis/teamspeak-php-framework": "dev-master"
+  }
+}
